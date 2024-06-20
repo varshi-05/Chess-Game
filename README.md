@@ -1,0 +1,2 @@
+- Created a chess game using Python, incorporating features like move validation and game state.
+- Utilized object-oriented programming for modular and maintainable code.
